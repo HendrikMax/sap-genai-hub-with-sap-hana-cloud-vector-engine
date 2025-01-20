@@ -5,3 +5,4 @@ orchestration-service-update.ipynb
 .DS_Store
 GenAI_orchestration_dev.ipynb
 config/
+.env
